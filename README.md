@@ -1,2 +1,2 @@
 # FOSS-Syndicate-Website
-The website of Foss-Syndicate.
+This is the website of Foss-Syndicate.
