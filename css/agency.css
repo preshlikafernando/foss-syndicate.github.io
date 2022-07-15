@@ -609,7 +609,7 @@ section h3.section-subheading {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #fff;
+    border: 7px solid grey;
 }
 
 .team-member h4 {
@@ -835,6 +835,19 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0;
+}
+
+.const-img {
+    width: 250px;
+}
+
+.img-circle {
+    color: #fec503;
+}
+
+.hello {
+    margin: 0 auto;
+    border: 7px solid red;
 }
 
 body {
